@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76ca5fca-f8ed-4b34-90fc-a8164018eee5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../LearningPart1/src/main/java/TypeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LearningPart1/src/main/java/TypeConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2i6cvHw6VxBoUaOfijeunbaR6bg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArmStrongNumber.executor": "Run",
+    "Application.Array.executor": "Run",
+    "Application.ArrayReversing.executor": "Run",
+    "Application.Arrays.executor": "Run",
+    "Application.ArraywithList.executor": "Run",
+    "Application.AssignmentOperator.executor": "Run",
+    "Application.BreakStatement.executor": "Run",
+    "Application.Cat.executor": "Run",
+    "Application.CheckPositiveOrZero.executor": "Run",
+    "Application.ConditionalOperator.executor": "Run",
+    "Application.Constructor.executor": "Run",
+    "Application.Constructors.executor": "Run",
+    "Application.CountDigitsUsingWhileLoop.executor": "Run",
+    "Application.CountNumOfDigits.executor": "Run",
+    "Application.DataTypes.executor": "Run",
+    "Application.DecrementOperator.executor": "Run",
+    "Application.DiaplayDate.executor": "Run",
+    "Application.DisplayDate.executor": "Run",
+    "Application.DisplayingBoth.executor": "Run",
+    "Application.DisplayingDateOnly.executor": "Run",
+    "Application.DisplayingTimeOnly.executor": "Run",
+    "Application.Exceptions.executor": "Run",
+    "Application.Exceptionss.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Factoriall.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
+    "Application.IncrementOperator.executor": "Run",
+    "Application.JavaArrayList.executor": "Run",
+    "Application.JavaExceptions.executor": "Run",
+    "Application.JavaHashMap.executor": "Run",
+    "Application.JavaHashSet.executor": "Run",
+    "Application.JavaIterator.executor": "Run",
+    "Application.JavaLamba.executor": "Run",
+    "Application.JavaLinkedList.executor": "Run",
+    "Application.JavaMethod.executor": "Run",
+    "Application.JavaRegex.executor": "Run",
+    "Application.JavaRegexs.executor": "Run",
+    "Application.JavaThreads.executor": "Run",
+    "Application.JavaWrapperClass.executor": "Run",
+    "Application.LargestNumber.executor": "Run",
+    "Application.List.executor": "Run",
+    "Application.ListSorting.executor": "Run",
+    "Application.LoopingStatements.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Mains.executor": "Run",
+    "Application.MultipleStatements.executor": "Run",
+    "Application.NestedIfElse.executor": "Run",
+    "Application.Operators.executor": "Run",
+    "Application.OtherTypes.executor": "Run",
+    "Application.OuterClas.executor": "Run",
+    "Application.OuterClass.executor": "Run",
+    "Application.OuterClasss.executor": "Run",
+    "Application.PalindromeNumber.executor": "Run",
+    "Application.PalindromeNumber1.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.RegexForNames.executor": "Run",
+    "Application.ReverseANumberUsingBuilderClass.executor": "Run",
+    "Application.ReverseNumberUsingRecursion.executor": "Run",
+    "Application.ReverseNumberUsingWhileLoop.executor": "Run",
+    "Application.ReversingNumber.executor": "Run",
+    "Application.SimpleJavaProgram.executor": "Run",
+    "Application.SwappingVariable.executor": "Run",
+    "Application.SwitchStatements.executor": "Run",
+    "Application.Threads.executor": "Run",
+    "Application.Variable.executor": "Run",
+    "Application.Vehicle.executor": "Run",
+    "Application.WhileLoopWithOutCondition.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Random" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76ca5fca-f8ed-4b34-90fc-a8164018eee5" name="Changes" comment="" />
+      <created>1718814698281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718814698281</updated>
+    </task>
+    <servers />
+  </component>
+</project>
