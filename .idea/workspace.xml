@@ -7,7 +7,7 @@
     <list default="true" id="76ca5fca-f8ed-4b34-90fc-a8164018eee5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../LearningPart1/src/main/java/TypeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LearningPart1/src/main/java/TypeConversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Practice/src/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +86,7 @@
     "Application.Mains.executor": "Run",
     "Application.MultipleStatements.executor": "Run",
     "Application.NestedIfElse.executor": "Run",
+    "Application.OperationsString.executor": "Run",
     "Application.Operators.executor": "Run",
     "Application.OtherTypes.executor": "Run",
     "Application.OuterClas.executor": "Run",
