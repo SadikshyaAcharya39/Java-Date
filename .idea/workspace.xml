@@ -8,6 +8,9 @@
       <change beforePath="$PROJECT_DIR$/../LearningPart1/src/main/java/TypeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LearningPart1/src/main/java/TypeConversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Practice/src/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccessMethodsWithObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccessMethodsWithObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +42,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AccessMethodsWithObject.executor": "Run",
     "Application.ArmStrongNumber.executor": "Run",
     "Application.Array.executor": "Run",
     "Application.ArrayReversing.executor": "Run",
     "Application.Arrays.executor": "Run",
+    "Application.ArraysInJava.executor": "Run",
     "Application.ArraywithList.executor": "Run",
     "Application.AssignmentOperator.executor": "Run",
+    "Application.BookInnerClass.executor": "Run",
     "Application.BreakStatement.executor": "Run",
+    "Application.Car.executor": "Run",
     "Application.Cat.executor": "Run",
     "Application.CheckPositiveOrZero.executor": "Run",
     "Application.ConditionalOperator.executor": "Run",
@@ -60,6 +67,7 @@
     "Application.DisplayingBoth.executor": "Run",
     "Application.DisplayingDateOnly.executor": "Run",
     "Application.DisplayingTimeOnly.executor": "Run",
+    "Application.EnumSwitch.executor": "Run",
     "Application.Exceptions.executor": "Run",
     "Application.Exceptionss.executor": "Run",
     "Application.Factorial.executor": "Run",
@@ -67,25 +75,46 @@
     "Application.FibonacciSeries.executor": "Run",
     "Application.IncrementOperator.executor": "Run",
     "Application.JavaArrayList.executor": "Run",
+    "Application.JavaArrays.executor": "Run",
+    "Application.JavaCodes.Main.executor": "Run",
+    "Application.JavaConstructor.executor": "Run",
+    "Application.JavaDate.executor": "Run",
+    "Application.JavaEncapsulation.executor": "Run",
+    "Application.JavaEnums.executor": "Run",
     "Application.JavaExceptions.executor": "Run",
     "Application.JavaHashMap.executor": "Run",
     "Application.JavaHashSet.executor": "Run",
     "Application.JavaIterator.executor": "Run",
     "Application.JavaLamba.executor": "Run",
     "Application.JavaLinkedList.executor": "Run",
+    "Application.JavaMaths.executor": "Run",
     "Application.JavaMethod.executor": "Run",
+    "Application.JavaMethodsParameters.executor": "Run",
+    "Application.JavaModifiers.executor": "Run",
+    "Application.JavaPolymorphism.executor": "Run",
     "Application.JavaRegex.executor": "Run",
     "Application.JavaRegexs.executor": "Run",
     "Application.JavaThreads.executor": "Run",
+    "Application.JavaWhileLoop.executor": "Run",
     "Application.JavaWrapperClass.executor": "Run",
     "Application.LargestNumber.executor": "Run",
     "Application.List.executor": "Run",
     "Application.ListSorting.executor": "Run",
     "Application.LoopingStatements.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MainMethod.executor": "Run",
     "Application.Mains.executor": "Run",
+    "Application.Mainss.executor": "Run",
+    "Application.MethodOverloading.executor": "Run",
+    "Application.MethodScope.executor": "Run",
+    "Application.MethodWithConditional.executor": "Run",
+    "Application.MethodsInJava.executor": "Run",
+    "Application.MethodsJava.executor": "Run",
+    "Application.MultipleParameters.executor": "Run",
     "Application.MultipleStatements.executor": "Run",
+    "Application.MyPackageClass.executor": "Run",
     "Application.NestedIfElse.executor": "Run",
+    "Application.ObjectOrientedProgramming.executor": "Run",
     "Application.OperationsString.executor": "Run",
     "Application.Operators.executor": "Run",
     "Application.OtherTypes.executor": "Run",
@@ -95,11 +124,14 @@
     "Application.PalindromeNumber.executor": "Run",
     "Application.PalindromeNumber1.executor": "Run",
     "Application.Person.executor": "Run",
+    "Application.Recursion.executor": "Run",
     "Application.RegexForNames.executor": "Run",
     "Application.ReverseANumberUsingBuilderClass.executor": "Run",
     "Application.ReverseNumberUsingRecursion.executor": "Run",
     "Application.ReverseNumberUsingWhileLoop.executor": "Run",
     "Application.ReversingNumber.executor": "Run",
+    "Application.ScannerClass.executor": "Run",
+    "Application.Second.executor": "Run",
     "Application.SimpleJavaProgram.executor": "Run",
     "Application.SwappingVariable.executor": "Run",
     "Application.SwitchStatements.executor": "Run",
@@ -136,5 +168,16 @@
       <updated>1718814698281</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
